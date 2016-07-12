@@ -1,0 +1,23 @@
+.jumbotron {
+    height: 800px;
+    background: url(../assets/coffee.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: AileronsTypeface;
+    color: #66757B; 
+}
+
+.initial {
+}
+
+.navbar {
+    background-color: #BDE8DC;
+
+}
+
+@font-face {
+    font-family: AileronsTypeface;
+    src: url("../assets/Ailerons-Typeface.otf") format("opentype"); 
+}
