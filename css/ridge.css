@@ -1,7 +1,11 @@
-.jumbotron {
+body {
+    margin: 0;
+}
+
+
+.header {
     height: 800px;
-    background: url(../assets/coffee.jpg);
-    background-size: cover;
+    width: 100%;
 }
 
 h1 {
